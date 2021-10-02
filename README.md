@@ -8,10 +8,12 @@
 #### 🔭 I’m currently working on - [Team De-Bug - Med-Bay Patients App](https://github.com/Team-De-bug/med_bay_patients)
 
 <p align="center">
-  <img alt="GitHub Contributions Stats" src="https://github-readme-stats.vercel.app/api?username=shabesa&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true" />
+  <img alt="GitHub Contributions Stats" src="https://github-readme-stats.vercel.app/api?username=shabesa&count_private=true&show_icons=true&theme=radical)
+&include_all_commits=true" />
 </p>
 <p align="center">
-  <img alt="GitHub streaks stats" src="https://github-readme-streak-stats.herokuapp.com/?user=shabesa&theme=gruvbox" />
+  <img alt="GitHub streaks stats" src="https://github-readme-streak-stats.herokuapp.com/?user=shabesa&theme=radical)
+" />
 </p>
 
 <!--
