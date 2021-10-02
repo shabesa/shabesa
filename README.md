@@ -11,8 +11,7 @@
   <img alt="GitHub Contributions Stats" src="https://github-readme-stats.vercel.app/api?username=shabesa&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
 </p>
 <p align="center">
-  <img alt="GitHub streaks stats" src="https://github-readme-streak-stats.herokuapp.com/?user=shabesa&theme=radical)
-" />
+  <img alt="GitHub streaks stats" src="https://github-readme-streak-stats.herokuapp.com/?user=shabesa&theme=radical" />
 </p>
 
 <!--
