@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am Shabesa, 
+Student @ Yuvabharathi Public School
+Co-Founder of Team De-Bug
+
+🌱 I’m currently learning Flutter App Dev
+🔭 I’m currently working on https://github.com/Team-De-bug/med_bay_patients
+
 <!--
 **shabesa/shabesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
