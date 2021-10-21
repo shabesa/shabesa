@@ -8,9 +8,6 @@
 #### 🌱 I’m currently learning Flutter App Dev
 #### 🔭 I’m currently working on -> [Team De-Bug - Med-Bay Patients App](https://github.com/Team-De-bug/med_bay_patients)
 
-<p align="center"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=shabesa&theme=radical&no-frame=true&show_icons=true&locale=en&layout=compact" />
-</p>
-
 <p align="center">
   <img alt="GitHub Contributions Stats" src="https://github-readme-stats.vercel.app/api?username=shabesa&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
 </p>
