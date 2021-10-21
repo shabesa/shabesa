@@ -26,15 +26,16 @@
   </a>
   <a href="https://www.flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="flutter" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.raspberrypi.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="flutter" width="40" height="40"/>
+  <a href="https://www.raspberrypi.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="rpi" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="flutter" width="40" height="40"/>
+  <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>
   </a>
-  <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="vscode" width="40" height="40"/>
+  <a href="https://www.arduino.cc" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
-  
 </p>
 
 <!--
