@@ -34,7 +34,7 @@
   </a>
   <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="vscode" width="40" height="40"/>
   <a href="https://www.arduino.cc" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/>
   </a>
 </p>
 
