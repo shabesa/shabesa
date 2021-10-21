@@ -32,6 +32,9 @@
   </a>
   <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
+  <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="flutter" width="40" height="40"/>
+  </a>
+  
 </p>
 
 <!--
