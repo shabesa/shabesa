@@ -2,7 +2,7 @@
 
 #### I am Shabesa, 
 #### Student @ Yuvabharathi Public School, Coimbatore
-#### Co-Founder of Team De-Bug -> [Team De-Bug](https://github.com/Team-De-bug)
+#### Co-Founder of [Team De-Bug](https://github.com/Team-De-bug)
 
 #### 💻 I'm a Tech savvy with Programming Skills and interest in Science and Music
 #### 🌱 I’m currently learning Flutter App Dev
