@@ -6,7 +6,7 @@
 
 #### 💻 I'm a Tech savvy with Programming Skills and interest in Science and Music
 #### 🌱 I’m currently learning Flutter App Dev
-#### 🔭 I’m currently working on -> [NuTopia.in](https://nutopia.in)
+#### 🔭 I’m currently working on -> [Nutopia.in](https://nutopia.in)
 
 <p align="center">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=shabesa&theme=radical&show_icons=true&locale=en" />
