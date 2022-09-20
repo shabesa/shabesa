@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 #### I am Shabesa, 
-#### Student @ Yuvabharathi Public School, Coimbatore
+#### B.E. Computer Systems Engineering
+#### Undergrad Student @ Carleton Univeristy, Ottawa, Ontario, Canada
 #### Co-Founder of [Team De-Bug](https://github.com/Team-De-bug)
 
 #### 💻 I'm a Tech savvy with Programming Skills and interest in Science and Music
