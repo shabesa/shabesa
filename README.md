@@ -6,7 +6,7 @@
 #### Co-Founder of [Team De-Bug](https://team-de-bug.com)
 
 #### 💻 I'm tech-savvy with Programming Skills and an interest in Science and Music
-#### 🌱 I’m currently learning Flutter App Dev
+#### 🌱 I’m currently learning Flutter App Dev & Next.js
 #### 🔭 I’m presently working on -> Team De-Bug Website
 
 <p align="center">
