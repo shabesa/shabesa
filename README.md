@@ -1,8 +1,5 @@
-### Hi there 👋
-
-# 👋 Hi there, I'm Shabesa
-
-## 🧠 B.E. Computer Systems Engineering  
+## 👋 Hi there, I'm Shabesa
+🧠 B.E. Computer Systems Engineering  
 🎓 Undergrad Student @ Carleton University, Ottawa, Ontario, Canada  
 🚀 Founder and Director of Engineering and Operations at [Team De-Bug](https://team-de-bug.com)
 
