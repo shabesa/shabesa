@@ -43,7 +43,7 @@
   <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="arduino" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
   
 </p>
