@@ -1,13 +1,21 @@
 ### Hi there 👋
 
-#### I am Shabesa, 
-#### B.E. Computer Systems Engineering
-#### Undergrad Student @ Carleton University, Ottawa, Ontario, Canada
-#### Co-Founder of [Team De-Bug](https://team-de-bug.com)
+# 👋 Hi there, I'm Shabesa
 
-#### 💻 I'm tech-savvy with Programming Skills and an interest in Science and Music
-#### 🌱 I’m currently learning Flutter App Dev & Next.js
-#### 🔭 I’m presently working on -> Team De-Bug Website
+## 🧠 B.E. Computer Systems Engineering  
+🎓 Undergrad Student @ Carleton University, Ottawa, Ontario, Canada  
+🚀 Founder and Director of Engineering and Operations at [Team De-Bug](https://team-de-bug.com)
+
+---
+
+## 💡 About Me
+
+- 💻 Tech enthusiast 
+- 🔭 Currently building the **Team De-Bug Website**  
+- 🌱 Exploring **Flutter** and **Next.js**  
+- 🎶 Passionate about science, tech, and music  
+
+---
 
 <p align="center">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=shabesa&theme=radical&show_icons=true&locale=en" />
